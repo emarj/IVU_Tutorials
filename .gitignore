@@ -1,0 +1,5 @@
+.conda
+*/data
+*/logs
+
+.DS_Store
