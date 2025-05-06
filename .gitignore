@@ -1,5 +1,7 @@
 .conda
-*/data
-*/logs
+data
+logs
+results
+models
 
 .DS_Store
